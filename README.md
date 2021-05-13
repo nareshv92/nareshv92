@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nareshv92
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : nvalvi63@gmail.com
 
